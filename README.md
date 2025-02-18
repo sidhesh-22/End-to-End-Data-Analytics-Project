@@ -16,8 +16,6 @@ This study looks at the relationships between various economic indicators and th
 ![end_to_end_project](https://github.com/user-attachments/assets/835f8393-6988-4c85-a5e0-8882e7c3306c)
 
 
-The Linear Regression model was evaluated on the steel industry dataset using three major metrics, Root Mean Squared Error (RMSE), R Squared (R2) Score, and Mean Absolute Percentage Error (MAPE). Whereas, the KNN regression model is evaluated on the steel industry data set, for its predictive accuracy for continuous target variables.
-
 
 ### Data Source
 
